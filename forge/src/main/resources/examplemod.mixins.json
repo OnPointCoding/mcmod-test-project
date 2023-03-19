@@ -1,7 +1,7 @@
 {
   "required": true,
   "package": "net.examplemod.mixin.forge",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_16",
   "client": [
   ],
   "mixins": [
